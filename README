@@ -1,1 +1,28 @@
-Hello World!
+/**
+ * PHP Admin Location Lookup
+ *
+ * @version 1.00
+ * @author Christian Ditaputratama <ditatompel@gmail.com>
+ *
+ * Admin location finder for single site.
+ * optionally dump scan result to text file.
+ * 
+ * still very early release, just for testing and coding purpose :)
+ * 
+ *------------------------------------------------------------------------+
+ * This program is free software; you can redistribute it and/or modify   |
+ * it under the terms of the GNU General Public License version 2 as      |
+ * published by the Free Software Foundation.                             |
+ *                                                                        |
+ * This program is distributed in the hope that it will be useful,        |
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of         |
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the          |
+ * GNU General Public License for more details.                           |
+ *                                                                        |
+ * This script are often used solely for informative, educational         |
+ * purposes only. Author cannot be held responsible for any               |
+ * damage and (or) (ab)use of this script.                                |
+ * Please submit changes of the script so other people can use            |
+ * them as well. This script is free to use, don't abuse.                 |
+ *------------------------------------------------------------------------+
+ */
